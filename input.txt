@@ -1,0 +1,9 @@
+420
+Ann (and) (1)
+.Boris (or) (2)
+..Cat (or) (3)
+..Dora (and) (4)
+...Eva (and) (5)
+...Fred (and) (6)
+...Nata (and) (7)
+.Nina (and) (8)
